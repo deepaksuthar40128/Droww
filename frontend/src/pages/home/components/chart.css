@@ -1,0 +1,25 @@
+.chart-text {
+    fill: rgb(55 65 81);
+}
+
+.chart-line {
+    stroke: rgb(156 163 175);
+}
+
+.chart-grid-line {
+    stroke: rgb(209 213 219);
+    opacity: 0.5;
+}
+
+.dark .chart-text {
+    fill: rgb(229 231 235);
+}
+
+.dark .chart-line {
+    stroke: rgb(156 163 175);
+}
+
+.dark .chart-grid-line {
+    stroke: rgb(75 85 99);
+    opacity: 0.3;
+}
