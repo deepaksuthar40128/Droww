@@ -1,0 +1,1 @@
+default_app_config = 'fake_data_gen.apps.WsPlatformConfig'
