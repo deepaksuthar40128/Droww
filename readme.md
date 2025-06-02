@@ -63,6 +63,7 @@ App runs at: http://localhost:5173/
 - Check user authentication on ws connection upgrade time only not during each message communication.
 - Uses in-memory data (no persistent DB storage for trades).
 - Assuming no order cancel or update once order placed.
+- Some user initially have some quantities which they want to sell (to run orderbook & execute trades)
 
 ## Live OHLC chart
 
